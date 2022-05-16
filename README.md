@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hello, ✨ My DREAM ✨ WORLD ! 
 
-<!--
-**psoh27/psoh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm So Hyeon who Dreams *CODING LIFE*. 
+### My Coding Life 
+![HTML5](https://img.shields.io/badge/HTML5-white?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript)
+![SQL](https://img.shields.io/badge/MySQL-9cf?logo=mysql)
+![C](https://img.shields.io/badge/C-white?logo=c)
+![PYTHON](https://img.shields.io/badge/PYTHON-inactive?logo=python)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Project Life
